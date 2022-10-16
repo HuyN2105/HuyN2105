@@ -1,6 +1,6 @@
-<p align="center">
+<a align="center">
   ![](https://visitor-badge.laobi.icu/badge?page_id=HuyN2105)
-</p>
+</a>
 
 ## ✉️ Find me on:
 <p align="center">
