@@ -1,4 +1,6 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=HuyN2105)
+<p align="center">
+  ![](https://visitor-badge.laobi.icu/badge?page_id=HuyN2105)
+</p>
 
 ## ✉️ Find me on:
 <p align="center">
