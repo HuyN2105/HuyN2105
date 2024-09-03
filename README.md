@@ -1,10 +1,3 @@
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=110520635" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110520635&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @HuyN2105" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=110520635&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 # 💫 About Me:
 🔭 I'm currently working on personal hobby projects.<br>🤝 I'm looking for help and collaborate in open-source projects to grows myself.<br>🌱 I'm currently an undergraduate of DUT from Viet Nam.
 
