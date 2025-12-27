@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on personal hobby projects.<br>🤝 I'm looking for help and collaborate in open-source projects to grows myself.<br>🌱 I'm currently an undergraduate of DUT from Viet Nam.
+🔭 I'm currently working on personal hobby projects.<br>🤝 I'm looking for help and collaborate in open-source projects to grows myself.<br>🌱 I'm currently an undergraduate of Da Nang University of Science and Technology (DUT) from Viet Nam.
 
 
 ## 🌐 Socials:
