@@ -19,6 +19,8 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
   <img width="7" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" height="40" alt="opengl logo"  />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
